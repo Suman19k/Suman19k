@@ -8,7 +8,9 @@
 <h2 align="center">Developer | Coder </h2>
 
 <h4 align="center">Welcome to my GitHub profile! I'm a developer with a strong passion for coding and a keen interest in frontend web technologies. I thrive on challenges and have a fast learning capability that enables me to adapt to any environment. Let's connect and collaborate on exciting projects!</h4>
-<img align="right" alt="Coding" width="290" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
 
 ## 🛠 Skills and Technologies
 
