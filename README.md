@@ -15,7 +15,7 @@
 
 ## 🌐 Connect with Me
 
-- 🌐 Website: http://suman.host20.uk/portfolio/
+- 🌐 Website: http://suman.host20.uk/Suman%20Portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/suman-raj-08023b215/
 - 🐱 GitHub: https://github.com/Suman19k
 
