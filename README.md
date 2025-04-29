@@ -40,8 +40,7 @@
 ## 🌐 Connect with Me
 
 - 🌐 Website: 
-https://sumann19k.000webhostapp.com/
-- 💼 LinkedIn: https://www.linkedin.com/in/suman-raj-08023b215/
+- 💼 LinkedIn: https://www.linkedin.com/in/suman19k/
 - 🐱 GitHub: https://github.com/Suman19k
 
 # 📊 GitHub Stats:
