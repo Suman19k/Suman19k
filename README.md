@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suman Raj</h1>
-<h3 align="center">Data Analyst | Business Intelligence | Python • SQL • Power BI</h3>
+<h3 align="center">
+Data Analyst & Python Developer | Python • SQL • Power BI • Tableau | Web Technologies
+</h3>
+
 
 ---
 
@@ -67,3 +70,4 @@ I enjoy identifying patterns, answering business questions with data, and presen
 
 ## 💰 Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sumanrajs0z)
+
